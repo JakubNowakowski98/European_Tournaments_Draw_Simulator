@@ -8,11 +8,11 @@ Prosty symulator losowania drabinki europejskich pucharów w piłkę nożną, to
 
 Program został napisany w JS z użyciem framework'a expressJS. Do uruchomienia programu musimy w terminalu wpisać:
 
-//Pobranie i instalacja potrzebnych bibliotek
+Pobranie i instalacja potrzebnych bibliotek
 npm install express
 npm install body-parser
 
-//Uruchomienie programu
+Uruchomienie programu
 node .\server.js
 
 Program jest nadal w trakcie udoskonalania. Na dzień dzisiejszy projekt działa jak powinien, jednak ma dużo niedociągnięć, o których jestem świadomy. W najbliższej przyszłoścu planuję:
