@@ -16,7 +16,7 @@ Uruchomienie programu:
 node .\server.js
 
 Program jest nadal w trakcie udoskonalania. Na dzień dzisiejszy projekt działa jak powinien, jednak ma dużo niedociągnięć, o których jestem świadomy. W najbliższej przyszłoścu planuję:
--Dodać szatę graficzną
+-Dodać lepszą szatę graficzną
 -Zoptymalizować kod
 -Rozbudować drabinkę o fazy play off po spotkaniach grupowych
 -Dodać predefiniowane wyniki na podstawie losowania wyniku z danych o sile zespołów z konkretnej pary
